@@ -1,0 +1,985 @@
+{
+children: [
+{
+Name: "Activision Blizzard Inc",
+Nasdaq100_points: "-.1",
+Symbol: "ATVI",
+lastsale: "28.68",
+netchange: "-0.17",
+pctchange: "-0.59",
+share_volume: "2595145"
+},
+{
+Name: "Adobe Systems Incorporated",
+Nasdaq100_points: ".8",
+Symbol: "ADBE",
+lastsale: "86.12",
+netchange: "1.81",
+pctchange: "2.15",
+share_volume: "2606056"
+},
+{
+Name: "Akamai Technologies Inc.",
+Nasdaq100_points: "-.1",
+Symbol: "AKAM",
+lastsale: "73.37",
+netchange: "-0.47",
+pctchange: "-0.64",
+share_volume: "1326326"
+},
+{
+Name: "Alexion Pharmaceuticals Inc.",
+Nasdaq100_points: "-.4",
+Symbol: "ALXN",
+lastsale: "186.58",
+netchange: "-2.25",
+pctchange: "-1.19",
+share_volume: "881646"
+},
+{
+Name: "Altera Corporation",
+Nasdaq100_points: "-.1",
+Symbol: "ALTR",
+lastsale: "49.03",
+netchange: "-0.29",
+pctchange: "-0.59",
+share_volume: "2066606"
+},
+{
+Name: "Amazon.com Inc.",
+Nasdaq100_points: ".7",
+Symbol: "AMZN",
+lastsale: "531.52",
+netchange: "1.86",
+pctchange: "0.35",
+share_volume: "1991011"
+},
+{
+Name: "American Airlines Group Inc.",
+Nasdaq100_points: ".0",
+Symbol: "AAL",
+lastsale: "42.88",
+netchange: "0.21",
+pctchange: "0.49",
+share_volume: "4850174"
+},
+{
+Name: "Amgen Inc.",
+Nasdaq100_points: "-.6",
+Symbol: "AMGN",
+lastsale: "167.72",
+netchange: "-0.86",
+pctchange: "-0.51",
+share_volume: "2697776"
+},
+{
+Name: "Analog Devices Inc.",
+Nasdaq100_points: ".0",
+Symbol: "ADI",
+lastsale: "58.84",
+netchange: "-0.16",
+pctchange: "-0.27",
+share_volume: "1526557"
+},
+{
+Name: "Apple Inc.",
+Nasdaq100_points: ".6",
+Symbol: "AAPL",
+lastsale: "115.96",
+netchange: "0.81",
+pctchange: "0.7",
+share_volume: "42918103"
+},
+{
+Name: "Applied Materials Inc.",
+Nasdaq100_points: "-.4",
+Symbol: "AMAT",
+lastsale: "16.64",
+netchange: "-0.41",
+pctchange: "-2.4",
+share_volume: "42698635"
+},
+{
+Name: "Autodesk Inc.",
+Nasdaq100_points: ".1",
+Symbol: "ADSK",
+lastsale: "54.86",
+netchange: "0.25",
+pctchange: "0.46",
+share_volume: "1090399"
+},
+{
+Name: "Automatic Data Processing Inc.",
+Nasdaq100_points: ".2",
+Symbol: "ADP",
+lastsale: "82.99",
+netchange: "0.54",
+pctchange: "0.65",
+share_volume: "2013220"
+},
+{
+Name: "Avago Technologies Limited",
+Nasdaq100_points: "-.5",
+Symbol: "AVGO",
+lastsale: "121.96",
+netchange: "-2.23",
+pctchange: "-1.8",
+share_volume: "2644252"
+},
+{
+Name: "Baidu Inc.",
+Nasdaq100_points: ".8",
+Symbol: "BIDU",
+lastsale: "164.24",
+netchange: "3.35",
+pctchange: "2.08",
+share_volume: "5054561"
+},
+{
+Name: "Bed Bath &amp; Beyond Inc.",
+Nasdaq100_points: "-.1",
+Symbol: "BBBY",
+lastsale: "63.31",
+netchange: "-0.36",
+pctchange: "-0.57",
+share_volume: "2160754"
+},
+{
+Name: "Biogen Inc.",
+Nasdaq100_points: "-.3",
+Symbol: "BIIB",
+lastsale: "312.61",
+netchange: "-1.3",
+pctchange: "-0.41",
+share_volume: "2002997"
+},
+{
+Name: "BioMarin Pharmaceutical Inc.",
+Nasdaq100_points: ".0",
+Symbol: "BMRN",
+lastsale: "135.51",
+netchange: "-0.33",
+pctchange: "-0.24",
+share_volume: "748116"
+},
+{
+Name: "Broadcom Corporation",
+Nasdaq100_points: "-.2",
+Symbol: "BRCM",
+lastsale: "50.5",
+netchange: "-0.36",
+pctchange: "-0.71",
+share_volume: "2994720"
+},
+{
+Name: "C.H. Robinson Worldwide Inc.",
+Nasdaq100_points: ".1",
+Symbol: "CHRW",
+lastsale: "69.4",
+netchange: "0.69",
+pctchange: "1",
+share_volume: "677880"
+},
+{
+Name: "CA Inc.",
+Nasdaq100_points: ".1",
+Symbol: "CA",
+lastsale: "29.38",
+netchange: "0.15",
+pctchange: "0.51",
+share_volume: "1602805"
+},
+{
+Name: "Celgene Corporation",
+Nasdaq100_points: "-.4",
+Symbol: "CELG",
+lastsale: "129.24",
+netchange: "-1.06",
+pctchange: "-0.81",
+share_volume: "3396548"
+},
+{
+Name: "Cerner Corporation",
+Nasdaq100_points: ".4",
+Symbol: "CERN",
+lastsale: "64.25",
+netchange: "1.36",
+pctchange: "2.16",
+share_volume: "3534307"
+},
+{
+Name: "Charter Communications Inc.",
+Nasdaq100_points: "-.1",
+Symbol: "CHTR",
+lastsale: "179.82",
+netchange: "-0.82",
+pctchange: "-0.45",
+share_volume: "901695"
+},
+{
+Name: "Check Point Software Technologies Ltd.",
+Nasdaq100_points: ".1",
+Symbol: "CHKP",
+lastsale: "80.82",
+netchange: "0.33",
+pctchange: "0.41",
+share_volume: "683321"
+},
+{
+Name: "Cisco Systems Inc.",
+Nasdaq100_points: "1.5",
+Symbol: "CSCO",
+lastsale: "29.03",
+netchange: "0.33",
+pctchange: "1.15",
+share_volume: "24758836"
+},
+{
+Name: "Citrix Systems Inc.",
+Nasdaq100_points: ".1",
+Symbol: "CTXS",
+lastsale: "77.55",
+netchange: "0.75",
+pctchange: "0.98",
+share_volume: "1503764"
+},
+{
+Name: "Cognizant Technology Solutions Corporation",
+Nasdaq100_points: "-.4",
+Symbol: "CTSH",
+lastsale: "67.17",
+netchange: "-0.77",
+pctchange: "-1.13",
+share_volume: "3042891"
+},
+{
+Name: "Comcast Corporation",
+Nasdaq100_points: "-1.4",
+Symbol: "CMCSA",
+lastsale: "58.88",
+netchange: "-0.76",
+pctchange: "-1.27",
+share_volume: "13889850"
+},
+{
+Name: "Comcast Corporation",
+Nasdaq100_points: ".0",
+Symbol: "CMCSK",
+lastsale: "59.63",
+netchange: "-0.37",
+pctchange: "-0.62",
+share_volume: "4360362"
+},
+{
+Name: "Costco Wholesale Corporation",
+Nasdaq100_points: ".3",
+Symbol: "COST",
+lastsale: "146.09",
+netchange: "0.82",
+pctchange: "0.56",
+share_volume: "1205245"
+},
+{
+Name: "Discovery Communications Inc.",
+Nasdaq100_points: ".0",
+Symbol: "DISCA",
+lastsale: "28.31",
+netchange: "-0.17",
+pctchange: "-0.6",
+share_volume: "2431836"
+},
+{
+Name: "Discovery Communications Inc.",
+Nasdaq100_points: ".0",
+Symbol: "DISCK",
+lastsale: "27.12",
+netchange: "-0.13",
+pctchange: "-0.48",
+share_volume: "1581557"
+},
+{
+Name: "DISH Network Corporation",
+Nasdaq100_points: ".1",
+Symbol: "DISH",
+lastsale: "66.31",
+netchange: "0.34",
+pctchange: "0.52",
+share_volume: "492041"
+},
+{
+Name: "Dollar Tree Inc.",
+Nasdaq100_points: ".1",
+Symbol: "DLTR",
+lastsale: "77.78",
+netchange: "0.45",
+pctchange: "0.58",
+share_volume: "1326350"
+},
+{
+Name: "eBay Inc.",
+Nasdaq100_points: ".3",
+Symbol: "EBAY",
+lastsale: "28.26",
+netchange: "0.27",
+pctchange: "0.96",
+share_volume: "7201488"
+},
+{
+Name: "Electronic Arts Inc.",
+Nasdaq100_points: ".0",
+Symbol: "EA",
+lastsale: "72.82",
+netchange: "-0.56",
+pctchange: "-0.76",
+share_volume: "2176999"
+},
+{
+Name: "Expeditors International of Washington Inc.",
+Nasdaq100_points: ".1",
+Symbol: "EXPD",
+lastsale: "49.28",
+netchange: "0.56",
+pctchange: "1.15",
+share_volume: "996373"
+},
+{
+Name: "Express Scripts Holding Company",
+Nasdaq100_points: "-.2",
+Symbol: "ESRX",
+lastsale: "88.26",
+netchange: "-0.25",
+pctchange: "-0.28",
+share_volume: "3259917"
+},
+{
+Name: "Facebook Inc.",
+Nasdaq100_points: "1.7",
+Symbol: "FB",
+lastsale: "94.42",
+netchange: "0.99",
+pctchange: "1.06",
+share_volume: "15890672"
+},
+{
+Name: "Fastenal Company",
+Nasdaq100_points: ".0",
+Symbol: "FAST",
+lastsale: "40.21",
+netchange: "0.16",
+pctchange: "0.4",
+share_volume: "1143984"
+},
+{
+Name: "Fiserv Inc.",
+Nasdaq100_points: ".1",
+Symbol: "FISV",
+lastsale: "89.58",
+netchange: "0.42",
+pctchange: "0.47",
+share_volume: "569471"
+},
+{
+Name: "Garmin Ltd.",
+Nasdaq100_points: ".0",
+Symbol: "GRMN",
+lastsale: "39.9",
+netchange: "-0.05",
+pctchange: "-0.13",
+share_volume: "649211"
+},
+{
+Name: "Gilead Sciences Inc.",
+Nasdaq100_points: ".5",
+Symbol: "GILD",
+lastsale: "115.6",
+netchange: "0.4",
+pctchange: "0.35",
+share_volume: "5517461"
+},
+{
+Name: "Google Inc.",
+Nasdaq100_points: ".2",
+Symbol: "GOOG",
+lastsale: "657.12",
+netchange: "0.67",
+pctchange: "0.1",
+share_volume: "1067974"
+},
+{
+Name: "Google Inc.",
+Nasdaq100_points: ".0",
+Symbol: "GOOGL",
+lastsale: "689.37",
+netchange: "2.86",
+pctchange: "0.42",
+share_volume: "1377905"
+},
+{
+Name: "Henry Schein Inc.",
+Nasdaq100_points: ".0",
+Symbol: "HSIC",
+lastsale: "145.1",
+netchange: "-0.05",
+pctchange: "-0.03",
+share_volume: "159872"
+},
+{
+Name: "Illumina Inc.",
+Nasdaq100_points: "-.1",
+Symbol: "ILMN",
+lastsale: "208.07",
+netchange: "-0.77",
+pctchange: "-0.37",
+share_volume: "681306"
+},
+{
+Name: "Intel Corporation",
+Nasdaq100_points: ".7",
+Symbol: "INTC",
+lastsale: "29.02",
+netchange: "0.15",
+pctchange: "0.52",
+share_volume: "14283129"
+},
+{
+Name: "Intuit Inc.",
+Nasdaq100_points: ".2",
+Symbol: "INTU",
+lastsale: "105.62",
+netchange: "0.72",
+pctchange: "0.69",
+share_volume: "765009"
+},
+{
+Name: "Intuitive Surgical Inc.",
+Nasdaq100_points: ".1",
+Symbol: "ISRG",
+lastsale: "529.87",
+netchange: "2",
+pctchange: "0.38",
+share_volume: "122985"
+},
+{
+Name: "JD.com Inc.",
+Nasdaq100_points: ".0",
+Symbol: "JD",
+lastsale: "28.12",
+netchange: "1.07",
+pctchange: "3.96",
+share_volume: "10121750"
+},
+{
+Name: "Keurig Green Mountain Inc.",
+Nasdaq100_points: ".1",
+Symbol: "GMCR",
+lastsale: "50.6",
+netchange: "0.32",
+pctchange: "0.64",
+share_volume: "2060944"
+},
+{
+Name: "KLA-Tencor Corporation",
+Nasdaq100_points: "-.1",
+Symbol: "KLAC",
+lastsale: "51.2",
+netchange: "-0.32",
+pctchange: "-0.62",
+share_volume: "1267382"
+},
+{
+Name: "Lam Research Corporation",
+Nasdaq100_points: ".0",
+Symbol: "LRCX",
+lastsale: "72.71",
+netchange: "0.7",
+pctchange: "0.97",
+share_volume: "3857938"
+},
+{
+Name: "Liberty Global plc",
+Nasdaq100_points: ".1",
+Symbol: "LBTYA",
+lastsale: "52.02",
+netchange: "0.44",
+pctchange: "0.85",
+share_volume: "1849439"
+},
+{
+Name: "Liberty Global plc",
+Nasdaq100_points: ".0",
+Symbol: "LBTYK",
+lastsale: "48.17",
+netchange: "0.05",
+pctchange: "0.1",
+share_volume: "2238662"
+},
+{
+Name: "Liberty Global plc",
+Nasdaq100_points: ".0",
+Symbol: "LILA",
+lastsale: "39.31",
+netchange: "0.38",
+pctchange: "0.98",
+share_volume: "104373"
+},
+{
+Name: "Liberty Global plc",
+Nasdaq100_points: ".0",
+Symbol: "LILAK",
+lastsale: "39.09",
+netchange: "0.13",
+pctchange: "0.33",
+share_volume: "186449"
+},
+{
+Name: "Liberty Interactive Corporation",
+Nasdaq100_points: ".0",
+Symbol: "LVNTA",
+lastsale: "41.58",
+netchange: "0.58",
+pctchange: "1.41",
+share_volume: "337420"
+},
+{
+Name: "Liberty Interactive Corporation",
+Nasdaq100_points: ".0",
+Symbol: "QVCA",
+lastsale: "30.26",
+netchange: "-0.06",
+pctchange: "-0.2",
+share_volume: "821231"
+},
+{
+Name: "Liberty Media Corporation",
+Nasdaq100_points: ".0",
+Symbol: "LMCA",
+lastsale: "38.28",
+netchange: "-0.15",
+pctchange: "-0.39",
+share_volume: "653104"
+},
+{
+Name: "Liberty Media Corporation",
+Nasdaq100_points: ".0",
+Symbol: "LMCK",
+lastsale: "37.75",
+netchange: "-0.19",
+pctchange: "-0.5",
+share_volume: "992270"
+},
+{
+Name: "Linear Technology Corporation",
+Nasdaq100_points: ".0",
+Symbol: "LLTC",
+lastsale: "41.24",
+netchange: "0.11",
+pctchange: "0.27",
+share_volume: "2097604"
+},
+{
+Name: "Marriott International",
+Nasdaq100_points: "-.1",
+Symbol: "MAR",
+lastsale: "71.85",
+netchange: "-0.45",
+pctchange: "-0.62",
+share_volume: "1346774"
+},
+{
+Name: "Mattel Inc.",
+Nasdaq100_points: ".0",
+Symbol: "MAT",
+lastsale: "23.09",
+netchange: "0.01",
+pctchange: "0.04",
+share_volume: "3949372"
+},
+{
+Name: "Micron Technology Inc.",
+Nasdaq100_points: "-.7",
+Symbol: "MU",
+lastsale: "16.95",
+netchange: "-0.75",
+pctchange: "-4.24",
+share_volume: "37212935"
+},
+{
+Name: "Microsoft Corporation",
+Nasdaq100_points: "2.0",
+Symbol: "MSFT",
+lastsale: "47",
+netchange: "0.27",
+pctchange: "0.58",
+share_volume: "21425817"
+},
+{
+Name: "Mondelez International Inc.",
+Nasdaq100_points: ".7",
+Symbol: "MDLZ",
+lastsale: "46.485",
+netchange: "0.475",
+pctchange: "1.03",
+share_volume: "9513367"
+},
+{
+Name: "Monster Beverage Corporation",
+Nasdaq100_points: ".2",
+Symbol: "MNST",
+lastsale: "150.4",
+netchange: "1.34",
+pctchange: "0.9",
+share_volume: "1165321"
+},
+{
+Name: "Mylan N.V.",
+Nasdaq100_points: ".1",
+Symbol: "MYL",
+lastsale: "54.36",
+netchange: "0.14",
+pctchange: "0.26",
+share_volume: "6831606"
+},
+{
+Name: "NetApp Inc.",
+Nasdaq100_points: ".0",
+Symbol: "NTAP",
+lastsale: "30.75",
+netchange: "0.13",
+pctchange: "0.42",
+share_volume: "2411401"
+},
+{
+Name: "Netflix Inc.",
+Nasdaq100_points: ".0",
+Symbol: "NFLX",
+lastsale: "123.39",
+netchange: "-0.34",
+pctchange: "-0.27",
+share_volume: "8655441"
+},
+{
+Name: "NVIDIA Corporation",
+Nasdaq100_points: ".0",
+Symbol: "NVDA",
+lastsale: "23.54",
+netchange: "0.02",
+pctchange: "0.09",
+share_volume: "5354973"
+},
+{
+Name: "NXP Semiconductors N.V.",
+Nasdaq100_points: "-.5",
+Symbol: "NXPI",
+lastsale: "91.62",
+netchange: "-2.03",
+pctchange: "-2.17",
+share_volume: "3142950"
+},
+{
+Name: "O'Reilly Automotive Inc.",
+Nasdaq100_points: ".0",
+Symbol: "ORLY",
+lastsale: "254.37",
+netchange: "0.45",
+pctchange: "0.18",
+share_volume: "465880"
+},
+{
+Name: "PACCAR Inc.",
+Nasdaq100_points: ".1",
+Symbol: "PCAR",
+lastsale: "62.92",
+netchange: "0.25",
+pctchange: "0.4",
+share_volume: "1052727"
+},
+{
+Name: "Paychex Inc.",
+Nasdaq100_points: ".1",
+Symbol: "PAYX",
+lastsale: "48.3",
+netchange: "0.17",
+pctchange: "0.35",
+share_volume: "1254307"
+},
+{
+Name: "QUALCOMM Incorporated",
+Nasdaq100_points: "-.2",
+Symbol: "QCOM",
+lastsale: "61.91",
+netchange: "-0.12",
+pctchange: "-0.19",
+share_volume: "9175913"
+},
+{
+Name: "Regeneron Pharmaceuticals Inc.",
+Nasdaq100_points: ".2",
+Symbol: "REGN",
+lastsale: "576.3",
+netchange: "2.2",
+pctchange: "0.38",
+share_volume: "491045"
+},
+{
+Name: "Ross Stores Inc.",
+Nasdaq100_points: ".0",
+Symbol: "ROST",
+lastsale: "53.72",
+netchange: "0.09",
+pctchange: "0.17",
+share_volume: "2697434"
+},
+{
+Name: "SanDisk Corporation",
+Nasdaq100_points: ".0",
+Symbol: "SNDK",
+lastsale: "57.95",
+netchange: "0.09",
+pctchange: "0.16",
+share_volume: "2032878"
+},
+{
+Name: "SBA Communications Corporation",
+Nasdaq100_points: ".2",
+Symbol: "SBAC",
+lastsale: "127.4",
+netchange: "1.53",
+pctchange: "1.22",
+share_volume: "598284"
+},
+{
+Name: "Seagate Technology.",
+Nasdaq100_points: ".2",
+Symbol: "STX",
+lastsale: "52.02",
+netchange: "0.65",
+pctchange: "1.27",
+share_volume: "3792758"
+},
+{
+Name: "Sirius XM Holdings Inc.",
+Nasdaq100_points: "-.3",
+Symbol: "SIRI",
+lastsale: "3.94",
+netchange: "-0.05",
+pctchange: "-1.25",
+share_volume: "27816971"
+},
+{
+Name: "Skyworks Solutions Inc.",
+Nasdaq100_points: ".0",
+Symbol: "SWKS",
+lastsale: "89.1",
+netchange: "-0.54",
+pctchange: "-0.6",
+share_volume: "2821836"
+},
+{
+Name: "Staples Inc.",
+Nasdaq100_points: ".1",
+Symbol: "SPLS",
+lastsale: "14.23",
+netchange: "0.15",
+pctchange: "1.07",
+share_volume: "3849521"
+},
+{
+Name: "Starbucks Corporation",
+Nasdaq100_points: ".2",
+Symbol: "SBUX",
+lastsale: "57.1",
+netchange: "0.25",
+pctchange: "0.44",
+share_volume: "4787712"
+},
+{
+Name: "Stericycle Inc.",
+Nasdaq100_points: ".0",
+Symbol: "SRCL",
+lastsale: "145.53",
+netchange: "0.56",
+pctchange: "0.39",
+share_volume: "306254"
+},
+{
+Name: "Symantec Corporation",
+Nasdaq100_points: ".2",
+Symbol: "SYMC",
+lastsale: "21.6",
+netchange: "0.36",
+pctchange: "1.69",
+share_volume: "4546420"
+},
+{
+Name: "Tesla Motors Inc.",
+Nasdaq100_points: ".1",
+Symbol: "TSLA",
+lastsale: "243.15",
+netchange: "0.64",
+pctchange: "0.26",
+share_volume: "4363240"
+},
+{
+Name: "Texas Instruments Incorporated",
+Nasdaq100_points: ".0",
+Symbol: "TXN",
+lastsale: "50.64",
+netchange: "0.01",
+pctchange: "0.02",
+share_volume: "4531805"
+},
+{
+Name: "The Kraft Heinz Company",
+Nasdaq100_points: ".0",
+Symbol: "KHC",
+lastsale: "76.42",
+netchange: "0.43",
+pctchange: "0.57",
+share_volume: "2571954"
+},
+{
+Name: "The Priceline Group Inc.",
+Nasdaq100_points: "-.1",
+Symbol: "PCLN",
+lastsale: "1283.8",
+netchange: "-1.67",
+pctchange: "-0.13",
+share_volume: "607999"
+},
+{
+Name: "Tractor Supply Company",
+Nasdaq100_points: ".0",
+Symbol: "TSCO",
+lastsale: "93.1",
+netchange: "-0.1",
+pctchange: "-0.11",
+share_volume: "532396"
+},
+{
+Name: "TripAdvisor Inc.",
+Nasdaq100_points: ".1",
+Symbol: "TRIP",
+lastsale: "72.49",
+netchange: "0.79",
+pctchange: "1.1",
+share_volume: "1121383"
+},
+{
+Name: "Twenty-First Century Fox Inc.",
+Nasdaq100_points: ".0",
+Symbol: "FOX",
+lastsale: "29.91",
+netchange: "0.27",
+pctchange: "0.91",
+share_volume: "3441240"
+},
+{
+Name: "Twenty-First Century Fox Inc.",
+Nasdaq100_points: ".2",
+Symbol: "FOXA",
+lastsale: "30.27",
+netchange: "0.15",
+pctchange: "0.5",
+share_volume: "18873938"
+},
+{
+Name: "Verisk Analytics Inc.",
+Nasdaq100_points: ".0",
+Symbol: "VRSK",
+lastsale: "76.8",
+netchange: "-0.08",
+pctchange: "-0.1",
+share_volume: "430425"
+},
+{
+Name: "Vertex Pharmaceuticals Incorporated",
+Nasdaq100_points: "-.1",
+Symbol: "VRTX",
+lastsale: "136.88",
+netchange: "-0.49",
+pctchange: "-0.36",
+share_volume: "955959"
+},
+{
+Name: "Viacom Inc.",
+Nasdaq100_points: "-.7",
+Symbol: "VIAB",
+lastsale: "43.67",
+netchange: "-2.08",
+pctchange: "-4.55",
+share_volume: "6616374"
+},
+{
+Name: "VimpelCom Ltd.",
+Nasdaq100_points: "-.2",
+Symbol: "VIP",
+lastsale: "5.43",
+netchange: "-0.13",
+pctchange: "-2.34",
+share_volume: "1602722"
+},
+{
+Name: "Vodafone Group Plc",
+Nasdaq100_points: ".1",
+Symbol: "VOD",
+lastsale: "37.53",
+netchange: "0.23",
+pctchange: "0.62",
+share_volume: "2057978"
+},
+{
+Name: "Walgreens Boots Alliance Inc.",
+Nasdaq100_points: ".0",
+Symbol: "WBA",
+lastsale: "92.1",
+netchange: "-0.44",
+pctchange: "-0.48",
+share_volume: "2818328"
+},
+{
+Name: "Western Digital Corporation",
+Nasdaq100_points: ".2",
+Symbol: "WDC",
+lastsale: "82.5",
+netchange: "0.93",
+pctchange: "1.14",
+share_volume: "1228052"
+},
+{
+Name: "Whole Foods Market Inc.",
+Nasdaq100_points: "-.1",
+Symbol: "WFM",
+lastsale: "33.31",
+netchange: "-0.41",
+pctchange: "-1.22",
+share_volume: "5754839"
+},
+{
+Name: "Wynn Resorts Limited",
+Nasdaq100_points: "-.2",
+Symbol: "WYNN",
+lastsale: "92.17",
+netchange: "-2.45",
+pctchange: "-2.59",
+share_volume: "2176917"
+},
+{
+Name: "Xilinx Inc.",
+Nasdaq100_points: ".1",
+Symbol: "XLNX",
+lastsale: "43.45",
+netchange: "0.3",
+pctchange: "0.7",
+share_volume: "3714772"
+},
+{
+Name: "Yahoo! Inc.",
+Nasdaq100_points: ".3",
+Symbol: "YHOO",
+lastsale: "36.24",
+netchange: "0.31",
+pctchange: "0.86",
+share_volume: "12232210"
+}
+]
+}

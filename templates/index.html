@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flask d3 Visualizer Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href={{ url_for('static', filename='./bower_components/bootstrap/dist/css/bootstrap.min.css') }} rel="stylesheet" media="screen">
+    <link href={{ url_for('static', filename='main.css') }} rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <!-- <audio id="audioElement" src="static/audio/Music/AOSOON/bempology/Aosoon_Under.mp3"></audio> -->
+    <audio id="audioElement" src="static/audio/Music/Oh_Rose/That_Do_Now_See_EP/Prom.mp3 "></audio>
+    <!-- <div id="audioSelectionRow">
+      <p>Select your song
+        <select name="songList" onChange="playAudio();"> 
+        </select>
+      </p>
+    </div> -->
+    <div id="button-row">
+      <!-- <div id="button-content"> -->
+        <button onclick="document.getElementById('audioElement').play()">Play</button>
+        <button onclick="document.getElementById('audioElement').pause()">Pause</button>
+        <button onclick="document.getElementById('audioElement').volume+=.1">Volume Up</button>
+        <button onclick="document.getElementById('audioElement').volume-=.1">Volume Down</button>
+        <button onclick="document.getElementById('audioElement').currentTime+=30.0">Skip Ahead</button>
+        <button onclick="document.getElementById('audioElement').currentTime-=.1">Rewind</button>
+      <!-- </div> -->
+    </div>
+    <div class="container">
+      <h1>d3 Visualization</h1>
+      <div id="chart"></div>
+      <svg class="chart"></svg>
+    </div>
+    <script src={{ url_for('static', filename='./bower_components/jquery/dist/jquery.min.js') }}></script>
+    <script src={{ url_for('static', filename='./bower_components/bootstrap/dist/js/bootstrap.min.js') }}></script>
+    <script src={{ url_for('static', filename='./bower_components/d3/d3.min.js') }}></script>
+    <script src={{ url_for('static', filename='main.js') }}></script>
+  </body>
+</html>
